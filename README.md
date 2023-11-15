@@ -1,0 +1,2 @@
+# DiwaliWishes
+ created using javascript
